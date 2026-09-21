@@ -250,3 +250,7 @@ This is a front-end e-commerce concept that can later be connected to real inven
 
 ## V3 Image Policy
 V3 uses real Wikimedia Commons photographs with their documented licenses instead of generated-looking product renders. See `docs/IMAGE-SOURCES-V3.md`.
+
+## V4 QA Fixes
+
+V4 synchronizes the product catalog, Shop renderer and product-detail pages around the same deterministic real-photo URLs. It also removes the broken relative-prefix issue from external Wikimedia images and applies consistent image containment across product cards and detail views.

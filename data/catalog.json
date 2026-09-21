@@ -7,7 +7,7 @@
     "price": 89.99,
     "rating": 4.8,
     "reviews": 128,
-    "image": "air-fryer-65l.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Air_Fryer_5458.jpg",
     "desc": "Large-capacity air fryer with intuitive digital controls for crisp everyday cooking."
   },
   {
@@ -18,7 +18,7 @@
     "price": 129.99,
     "rating": 4.7,
     "reviews": 96,
-    "image": "espresso-machine.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Espresso_Machine.jpg",
     "desc": "Compact espresso machine for rich coffee, smooth milk drinks and a polished countertop setup."
   },
   {
@@ -29,7 +29,7 @@
     "price": 69.99,
     "rating": 4.8,
     "reviews": 74,
-    "image": "high-speed-blender.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Blender_%2849907001146%29.jpg",
     "desc": "High-speed blending performance for smoothies, sauces and everyday prep."
   },
   {
@@ -40,7 +40,7 @@
     "price": 49.99,
     "rating": 4.9,
     "reviews": 102,
-    "image": "knife-set-12-piece.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chef-knives.jpg",
     "desc": "A complete knife block set for confident prep, slicing and everyday cooking."
   },
   {
@@ -51,7 +51,7 @@
     "price": 99.99,
     "rating": 4.7,
     "reviews": 87,
-    "image": "nonstick-cookware-set.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cookware_set_with_removable_handle.jpg",
     "desc": "Versatile cookware set with a clean modern finish for everyday meals."
   },
   {
@@ -62,18 +62,18 @@
     "price": 34.99,
     "rating": 4.8,
     "reviews": 65,
-    "image": "food-storage-containers.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Glass_food_storage_container_with_Easy_Find_Lids.jpg",
     "desc": "Stackable food storage containers designed to keep pantry and fridge spaces organized."
   },
   {
     "id": "p7",
     "slug": "aquaheat-electric-kettle",
     "name": "AquaHeat Electric Kettle",
-    "category": "Drinkware",
+    "category": "Small Appliances",
     "price": 44.99,
     "rating": 4.6,
     "reviews": 61,
-    "image": "drinkware.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Electric-kettle.jpg",
     "desc": "Fast-boiling electric kettle for tea, coffee and quick hot-water preparation."
   },
   {
@@ -84,7 +84,7 @@
     "price": 34.99,
     "rating": 4.7,
     "reviews": 72,
-    "image": "kitchen-tools.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kitchen_utensils.jpg",
     "desc": "A coordinated set of everyday cooking utensils for a streamlined kitchen."
   },
   {
@@ -95,7 +95,7 @@
     "price": 39.99,
     "rating": 4.7,
     "reviews": 54,
-    "image": "organization.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Knife_block_on_a_kitchen_counter_top.jpg",
     "desc": "Compact open shelving for spices, jars and frequently used kitchen essentials."
   },
   {
@@ -106,7 +106,7 @@
     "price": 79.99,
     "rating": 4.8,
     "reviews": 83,
-    "image": "cookware.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cooking_frying_pan.jpg",
     "desc": "A refined everyday pot with a neutral finish that fits modern kitchens."
   },
   {
@@ -117,18 +117,18 @@
     "price": 42.99,
     "rating": 4.6,
     "reviews": 48,
-    "image": "home-essentials.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Modern_Kitchen_Design_in_the_USA.jpg",
     "desc": "A curated set of practical essentials for a cleaner, calmer home."
   },
   {
     "id": "p12",
     "slug": "kavora-small-appliance-collection",
-    "name": "Kavora Small Appliance Collection",
+    "name": "Kavora 4-Slice Toaster",
     "category": "Small Appliances",
     "price": 119.99,
     "rating": 4.8,
     "reviews": 39,
-    "image": "small-appliances.jpg",
-    "desc": "A compact countertop appliance designed for convenient everyday cooking."
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Super_toaster.jpg",
+    "desc": "A compact countertop toaster designed for quick, even everyday breakfasts."
   }
 ]
