@@ -1,9 +1,9 @@
-# KAVORA Web V2
+# KAVORA Changelog
 
-## Image correction
-- Re-cropped product photographs to remove excessive empty canvas around products.
-- Re-cropped category photography for stronger visual scale.
-- Increased product image area in cards.
-- Removed promo banner assets that contained baked-in text from the homepage.
-- Promo copy is now rendered as HTML over clean product imagery.
-- Kept all product-to-image assignments deterministic and local.
+## V3 — Real Photography Update
+- Replaced generated-looking product photography with real Wikimedia Commons photographs.
+- Removed old local placeholder/product images from the asset folders.
+- Kept each featured product mapped to a different photograph.
+- Improved product-image sizing so the actual photograph fills the card naturally.
+- Replaced banner images that contained embedded promotional text with clean kitchen photography; promotional copy remains HTML.
+- Added `docs/IMAGE-SOURCES-V3.md` with source and license information.

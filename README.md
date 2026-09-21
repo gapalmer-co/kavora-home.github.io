@@ -246,3 +246,7 @@ This is a front-end e-commerce concept that can later be connected to real inven
 ## Copyright
 
 © 2026 KAVORA Home. All rights reserved.
+
+
+## V3 Image Policy
+V3 uses real Wikimedia Commons photographs with their documented licenses instead of generated-looking product renders. See `docs/IMAGE-SOURCES-V3.md`.
