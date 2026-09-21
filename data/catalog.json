@@ -1,0 +1,134 @@
+[
+  {
+    "id": "p1",
+    "slug": "kavora-air-fryer-65l",
+    "name": "Kavora Air Fryer 6.5L",
+    "category": "Small Appliances",
+    "price": 89.99,
+    "rating": 4.8,
+    "reviews": 128,
+    "image": "air-fryer-65l.jpg",
+    "desc": "Large-capacity air fryer with intuitive digital controls for crisp everyday cooking."
+  },
+  {
+    "id": "p2",
+    "slug": "barista-pro-espresso-machine",
+    "name": "Barista Pro Espresso Machine",
+    "category": "Coffee & Beverages",
+    "price": 129.99,
+    "rating": 4.7,
+    "reviews": 96,
+    "image": "espresso-machine.jpg",
+    "desc": "Compact espresso machine for rich coffee, smooth milk drinks and a polished countertop setup."
+  },
+  {
+    "id": "p3",
+    "slug": "powerblend-high-speed-blender",
+    "name": "PowerBlend High-Speed Blender",
+    "category": "Small Appliances",
+    "price": 69.99,
+    "rating": 4.8,
+    "reviews": 74,
+    "image": "high-speed-blender.jpg",
+    "desc": "High-speed blending performance for smoothies, sauces and everyday prep."
+  },
+  {
+    "id": "p4",
+    "slug": "elite-knife-set-12-piece",
+    "name": "Elite Knife Set 12-Piece",
+    "category": "Kitchen Tools",
+    "price": 49.99,
+    "rating": 4.9,
+    "reviews": 102,
+    "image": "knife-set-12-piece.jpg",
+    "desc": "A complete knife block set for confident prep, slicing and everyday cooking."
+  },
+  {
+    "id": "p5",
+    "slug": "ceramic-nonstick-cookware-set",
+    "name": "Ceramic Nonstick Cookware Set",
+    "category": "Cookware",
+    "price": 99.99,
+    "rating": 4.7,
+    "reviews": 87,
+    "image": "nonstick-cookware-set.jpg",
+    "desc": "Versatile cookware set with a clean modern finish for everyday meals."
+  },
+  {
+    "id": "p6",
+    "slug": "freshlock-food-storage-set",
+    "name": "FreshLock Food Storage Set",
+    "category": "Food Storage",
+    "price": 34.99,
+    "rating": 4.8,
+    "reviews": 65,
+    "image": "food-storage-containers.jpg",
+    "desc": "Stackable food storage containers designed to keep pantry and fridge spaces organized."
+  },
+  {
+    "id": "p7",
+    "slug": "aquaheat-electric-kettle",
+    "name": "AquaHeat Electric Kettle",
+    "category": "Drinkware",
+    "price": 44.99,
+    "rating": 4.6,
+    "reviews": 61,
+    "image": "drinkware.jpg",
+    "desc": "Fast-boiling electric kettle for tea, coffee and quick hot-water preparation."
+  },
+  {
+    "id": "p8",
+    "slug": "kavora-kitchen-utensil-set",
+    "name": "Kavora Kitchen Utensil Set",
+    "category": "Kitchen Tools",
+    "price": 34.99,
+    "rating": 4.7,
+    "reviews": 72,
+    "image": "kitchen-tools.jpg",
+    "desc": "A coordinated set of everyday cooking utensils for a streamlined kitchen."
+  },
+  {
+    "id": "p9",
+    "slug": "kavora-counter-organization",
+    "name": "Kavora Counter Organization Rack",
+    "category": "Organization",
+    "price": 39.99,
+    "rating": 4.7,
+    "reviews": 54,
+    "image": "organization.jpg",
+    "desc": "Compact open shelving for spices, jars and frequently used kitchen essentials."
+  },
+  {
+    "id": "p10",
+    "slug": "kavora-ceramic-cookware",
+    "name": "Kavora Ceramic Cookware",
+    "category": "Cookware",
+    "price": 79.99,
+    "rating": 4.8,
+    "reviews": 83,
+    "image": "cookware.jpg",
+    "desc": "A refined everyday pot with a neutral finish that fits modern kitchens."
+  },
+  {
+    "id": "p11",
+    "slug": "kavora-home-essentials-set",
+    "name": "Kavora Home Essentials Set",
+    "category": "Home Essentials",
+    "price": 42.99,
+    "rating": 4.6,
+    "reviews": 48,
+    "image": "home-essentials.jpg",
+    "desc": "A curated set of practical essentials for a cleaner, calmer home."
+  },
+  {
+    "id": "p12",
+    "slug": "kavora-small-appliance-collection",
+    "name": "Kavora Small Appliance Collection",
+    "category": "Small Appliances",
+    "price": 119.99,
+    "rating": 4.8,
+    "reviews": 39,
+    "image": "small-appliances.jpg",
+    "desc": "A compact countertop appliance designed for convenient everyday cooking."
+  }
+]
