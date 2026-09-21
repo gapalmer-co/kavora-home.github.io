@@ -1,3 +1,8 @@
 # KAVORA Image Policy
 
-All storefront product/category assets are stored locally in the ZIP. Product photography is mapped explicitly in `data/catalog.json`; the storefront does not randomly select images. Product cards use distinct local assets and the CSS uses `object-fit: contain` to preserve the full product within its frame.
+- Product photography is local to the project.
+- Each catalog product has its own assigned image.
+- Product source images are tightly cropped so the actual product fills the frame.
+- Product photos contain no prices, buttons, ratings, badges, navigation or promotional copy.
+- Promotional tiles use clean photography; their marketing text is rendered by HTML/CSS.
+- Images are displayed with `object-fit: contain` to preserve the complete product.
